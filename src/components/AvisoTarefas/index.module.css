@@ -1,0 +1,17 @@
+.WarningTodo {
+    border-top: 1px solid var(--gray-500);
+    border-radius: .5rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 224px;
+    flex-direction: column;
+    color: var(--gray-300);
+    line-height: 1.4;
+    width: 46rem;
+}
+
+.WarningTodo p {
+    margin-top: 1rem;
+}

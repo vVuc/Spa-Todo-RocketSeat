@@ -1,0 +1,19 @@
+.card {
+    display: flex;
+    padding: 1rem .75rem;
+    margin-bottom: .75rem;
+    align-items: center;
+    background-color: var(--gray-500);
+    border-radius: .75rem;
+    gap: .5rem;
+    /* border-top: 1px solid var(--gray-500); */
+}
+
+.card p {
+    width: 40.5rem;
+    font-size: .875rem;
+}
+
+.trashss:hover {
+    fill: #E25858;
+}
